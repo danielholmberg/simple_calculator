@@ -1,0 +1,9 @@
+A add B
+B add 100
+B subtract D
+B add C
+C multiply 5
+C add 20
+D add 10
+A divide 2
+print A
